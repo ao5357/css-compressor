@@ -99,5 +99,3 @@ Class CSSCompression_Numeric
 		}
 	}
 };
-
-?>

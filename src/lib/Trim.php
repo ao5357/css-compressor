@@ -209,5 +209,3 @@ Class CSSCompression_Trim
 		}
 	}
 };
-
-?>

@@ -259,5 +259,3 @@ Class CSSCompression_Combine_BorderRadius
 		}
 	}
 };
-
-?>

@@ -110,5 +110,3 @@ Class FocusedTest
 		}
 	}
 };
-
-?>

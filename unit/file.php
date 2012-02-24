@@ -22,5 +22,3 @@ new FileTest(array(
 	'options' => array(
 	),
 ));
-
-?>

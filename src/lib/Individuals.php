@@ -303,5 +303,3 @@ Class CSSCompression_Individuals
 		}
 	}
 };
-
-?>

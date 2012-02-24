@@ -224,5 +224,3 @@ Class CSSCompression_Cli
 
 // Auto-initialize the cli script
 new CSSCompression_Cli( $_SERVER['argv'] );
-
-?>

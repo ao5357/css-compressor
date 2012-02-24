@@ -195,5 +195,3 @@ Class CSSCompression_Color
 		}
 	}
 };
-
-?>

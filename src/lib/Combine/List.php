@@ -100,5 +100,3 @@ Class CSSCompression_Combine_List
 		}
 	}
 };
-
-?>

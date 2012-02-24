@@ -30,5 +30,3 @@ new FocusedTest(array(
 	),
 	'expect' => "border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;",
 ));
-
-?>

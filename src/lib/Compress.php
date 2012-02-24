@@ -208,5 +208,3 @@ Class CSSCompression_Compress
 		}
 	}
 };
-
-?>

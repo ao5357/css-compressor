@@ -141,5 +141,3 @@ Class FileTest
 		}
 	}
 };
-
-?>

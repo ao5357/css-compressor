@@ -241,5 +241,3 @@ Class CSSCompression_Selectors
 		}
 	}
 };
-
-?>

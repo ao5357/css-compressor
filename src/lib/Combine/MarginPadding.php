@@ -186,5 +186,3 @@ Class CSSCompression_Combine_MarginPadding
 		}
 	}
 };
-
-?>

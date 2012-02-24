@@ -138,5 +138,3 @@ Class CSScompression_Unit_Core extends CSScompression_Unit_Sheets
 		exit( $exit );
 	}
 };
-
-?>

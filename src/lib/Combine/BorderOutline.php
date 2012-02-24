@@ -105,5 +105,3 @@ Class CSSCompression_Combine_BorderOutline
 		}
 	}
 };
-
-?>

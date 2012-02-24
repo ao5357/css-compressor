@@ -397,5 +397,3 @@ Class CompressionBenchmark
 
 // Autostart the benchmarks
 new CompressionBenchmark;
-
-?>

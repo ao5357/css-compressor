@@ -145,5 +145,3 @@ Class CSSCompression_Organize
 		}
 	}
 };
-
-?>

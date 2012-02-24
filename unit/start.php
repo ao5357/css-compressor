@@ -74,5 +74,3 @@ $specials = array(
  * @param (array) specials: Special handling for certain sheets
  */
 new CSScompression_Unit_Core( $block, $specials );
-
-?>

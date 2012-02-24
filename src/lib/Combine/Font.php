@@ -121,5 +121,3 @@ Class CSSCompression_Combine_Font
 		}
 	}
 };
-
-?>

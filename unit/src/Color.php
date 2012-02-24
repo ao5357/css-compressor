@@ -65,5 +65,3 @@ Class Color
 		return self::wrap( 'blue', true, $msg );
 	}
 };
-
-?>

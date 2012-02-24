@@ -183,5 +183,3 @@ Class CSSCompression_Format
 		}
 	}
 };
-
-?>

@@ -94,5 +94,3 @@ Class CSSCompression_Combine_Border
 		}
 	}
 };
-
-?>
